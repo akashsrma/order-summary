@@ -1,0 +1,135 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.parent{
+    background-color:lightblue;
+    min-height: 666px ;
+}
+.card{
+   background-color: #ffffff;
+   width: 555px;
+   min-height: 666px ;
+   margin-left: 340px;
+   /* box-shadow: 5px 10px lightseagreen; */
+}
+.summary{
+    width: 100%;
+    height: 333px;
+    /* background-color: yellow; */
+}
+.summaryy{
+    width: 100%;
+    height: 111px;
+    /* background-color: chocolate; */
+}
+.sum{
+    width: 10%;
+    height: 222px;
+    /* background-color: blueviolet; */
+    float: left;
+}
+.summ{
+    width: 80%;
+    height: 222px;
+    /* background-color: red; */
+    float: left;
+    background-image: url(./illustration-hero.svg);
+    background-position: center;
+    background-size: cover;
+    border-top-left-radius: 18px;
+    border-top-right-radius: 18px;
+
+}
+.summm{
+    width: 10%;
+    height: 222px;
+    float: left;
+    /* background-color: rosybrown; */
+}
+.order{
+    text-align: center;
+    padding-top: 10px;
+}
+.paragraph{
+    text-align: center;
+    padding: 10px 90px;
+    font-size: 21px;
+    color: grey;
+    
+}
+.card-title{
+    width: 100%;
+    height: 70px;
+    /* background-color: teal; */
+}
+.card-para{
+    width: 100%;
+    height: 120px;
+    /* background-color: seagreen; */
+}
+.three{
+    width: 100%;
+    height: 70px;
+    /* background-color: orangered; */
+
+}
+.icon{
+    width: 33.3%;
+    height: 70px;
+    /* background-color: royalblue; */
+    float: left;
+}
+.icons{
+    padding: 9px 99px;
+}
+.title{
+    width: 33.3%;
+    height: 70px;
+    /* background-color: rosybrown; */
+    float: left;
+}
+.title-1{
+    width: 100%;
+    height: 35px;
+    /* background-color: blue; */
+    float: left;
+    font-size: 20px;
+    color: black;
+    padding: 1px 10px;
+}
+.title-2{
+    width: 100%;
+    height: 35px;
+    /* background-color: gray; */
+    float: left;
+    padding: 1px 10px;
+}
+.link{
+    width: 33.3%;
+    height: 70px;
+    /* background-color: gold; */
+    float: left;
+    padding: 6px 10px;
+    font-size: 21px;
+}
+.card-btn{
+    width: 100%;
+    height: 90px;
+    /* background-color: peru; */
+}
+.pay{
+    width: 80%;
+    height: 60px;
+    margin: 9px 50px;
+    color: #ffffff;
+    background-color: blue; 
+    border-radius: 12px;
+    font-size: 21px;
+}
+.cancel{
+    font-size: 18px;
+    text-align: center;
+    color:navy;
+}
